@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on writing [**Algorithms from Scratch**](https://github.com/jackapbutler/Algos-from-scratch)
 
-- 🌱 I’m currently learning **NLP, Conversational AI, Reservoir Computing, Echo State Neural Networks.**
+- 🌱 I’m currently learning **Conversational AI, Reservoir Computing and Variants of Regression**
 
 - 📫 How to reach me **jackapbutler@gmail.com**
 

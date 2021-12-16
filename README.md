@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Scientist with a background in statistics, probability and programming.</h3>
 
-- 🔭 I’m currently working on writing [**Algorithms from Scratch**](https://github.com/jackapbutler/Algos-from-scratch)
+- 🔭 I’m currently working on writing [**Reservoir Computing**].
 
 - 🌱 I’m currently learning **Conversational AI, Reservoir Computing and Variants of Regression**
 
